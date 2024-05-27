@@ -1,1 +1,13 @@
 newfile4 tyt noviy
+
+
+
+2018 Version1.1 Few fixes for fun
+and other stuff...
+
+
+
+
+Hey hey 
+my list = [1,2,3] 
+
